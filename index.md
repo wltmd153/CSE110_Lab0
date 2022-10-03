@@ -35,7 +35,9 @@ And the amount of work by rank would be
 5. Finding Sound sources
 
 The only remaining jobs left for the early access are
+
 -[ ] bug fixes
 -[x] general programming
 -[ ] translation
+
 [Go back to the readme](./README.md)
