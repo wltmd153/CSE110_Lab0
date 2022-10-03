@@ -36,8 +36,8 @@ And the amount of work by rank would be
 
 The only remaining jobs left for the early access are
 
--[ ] bug fixes
--[x] general programming
--[ ] translation
+- [ ] bug fixes
+- [x] general programming
+- [ ] translation
 
 [Go back to the readme](./README.md)
