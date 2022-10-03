@@ -18,6 +18,24 @@ break
 ```
 Also I am looking forward to attend to the Independent game festival which can be found with more info on
 
-https://igf.com/
+[Link for more info](https://igf.com/)
 
-[Contribution guidelines for this project](./README.md)
+In my team I am doing following jobs
+- General Programming
+- Finding Sound sources
+- Allocating 
+- Data science
+- translation
+
+And the amount of work by rank would be
+1. General Programming
+2. Data Science
+3. Allocating
+4. translation
+5. Finding Sound sources
+
+The only remaining jobs left for the early access are
+-[ ] bug fixes
+-[x] general programming
+-[ ] translation
+[Go back to the readme](./README.md)
